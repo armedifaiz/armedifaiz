@@ -8,10 +8,10 @@
 
 <br />
 
-![Location](https://img.shields.io/badge/LOCATION-INDONESIA-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
-![Role](https://img.shields.io/badge/ROLE-DATA%20ENGINEER-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
-![Cloud](https://img.shields.io/badge/CLOUD-GOOGLE%20CLOUD-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
+![Location](https://img.shields.io/badge/LOCATION-INDONESIA-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
+![Role](https://img.shields.io/badge/ROLE-DATA%20ENGINEER-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
+![Cloud](https://img.shields.io/badge/CLOUD-GOOGLE%20CLOUD-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
+![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
 
 </div>
 
@@ -47,11 +47,11 @@ always
 
 <div align="center">
 
-[![OpenClaw](https://img.shields.io/badge/OPENCLAW-openclaw.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://openclaw.faizarmedi.com/)
-[![Website](https://img.shields.io/badge/WEBSITE-faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://faizarmedi.com/)
-[![Airflow](https://img.shields.io/badge/AIRFLOW-airflow.faizarmedi.com-000000?style=for-the-badge&&logoColor=FF2A2A)](https://airflow.faizarmedi.com/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://portfolio.faizarmedi.com/)
-[![9Router](https://img.shields.io/badge/9ROUTER-9router.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://9router.faizarmedi.com/)
+[![OpenClaw](https://img.shields.io/badge/OPENCLAW-openclaw.faizarmedi.com-FF2A2A?style=for-the-badge&logoColor=FF2A2A)](https://openclaw.faizarmedi.com/)
+[![Website](https://img.shields.io/badge/WEBSITE-faizarmedi.com-FF2A2A?style=for-the-badge&logoColor=FF2A2A)](https://faizarmedi.com/)
+[![Airflow](https://img.shields.io/badge/AIRFLOW-airflow.faizarmedi.com-FF2A2A?style=for-the-badge&logoColor=FF2A2A)](https://airflow.faizarmedi.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.faizarmedi.com-FF2A2A?style=for-the-badge&logoColor=FF2A2A)](https://portfolio.faizarmedi.com/)
+[![9Router](https://img.shields.io/badge/9ROUTER-9router.faizarmedi.com-FF2A2A?style=for-the-badge&logoColor=FF2A2A)](https://9router.faizarmedi.com/)
 
 </div>
 
