@@ -78,25 +78,13 @@ always learning, experimenting, turning ideas into working solutions
 
 <br />
 
-## // pipeline
-
-```text
-  source          ingest           orchestrate         warehouse          model
- ---------      -----------      --------------      -------------      ----------
- databases  -->    Sling     -->    Airflow      -->   BigQuery    -->   Dataform
-                                                        BigLake
-```
-
-<br />
-
 ## // telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=armedifaiz&show_icons=true&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF&ring_color=00F0FF&text_bold=false" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armedifaiz&layout=compact&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=9CA3AF&card_width=320" height="170" />
-
-<br />
+![Followers](https://img.shields.io/github/followers/armedifaiz?style=flat-square&labelColor=000000&color=00F0FF)
+![Repos](https://img.shields.io/badge/REPOS-PUBLIC-0B1220?style=flat-square&labelColor=000000&color=00F0FF)
+![Joined](https://img.shields.io/github/created-at/armedifaiz?style=flat-square&labelColor=000000&color=00F0FF)
 
 <img src="https://streak-stats.demolab.com?user=armedifaiz&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" height="150" />
 
