@@ -109,8 +109,8 @@ always learning, experimenting, turning ideas into working solutions
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-armedifaiz-000000?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/armedifaiz)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/GANTI_USERNAME)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF)](https://www.instagram.com/GANTI_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/faizarmedi)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF)](https://www.instagram.com/faiz.armedi)
 
 </div>
 
