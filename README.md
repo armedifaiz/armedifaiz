@@ -33,7 +33,7 @@ agents that fix the agents
 vibes-based orchestration
 
 $ cat philosophy.txt
-1 little bugs in the code.
+1 little bug in the code.
 Take one down, patch it around.
 99 new bugs in the code.
 
