@@ -8,10 +8,10 @@
 
 <br />
 
-![Location](https://img.shields.io/badge/LOCATION-INDONESIA-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
-![Role](https://img.shields.io/badge/ROLE-DATA%20ENGINEER-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
-![Cloud](https://img.shields.io/badge/CLOUD-GOOGLE%20CLOUD-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
-![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0B1220?style=flat-square&labelColor=000000&color=FF2A2A)
+![Location](https://img.shields.io/badge/LOCATION-INDONESIA-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
+![Role](https://img.shields.io/badge/ROLE-DATA%20ENGINEER-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
+![Cloud](https://img.shields.io/badge/CLOUD-GOOGLE%20CLOUD-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
+![Status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-FF2A2A?style=flat-square&labelColor=000000&color=FF2A2A)
 
 </div>
 
