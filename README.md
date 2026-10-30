@@ -106,6 +106,6 @@ always learning, experimenting, turning ideas into working solutions
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:000000&height=70&section=footer&text=%C2%A9%202026%20Faiz%20%7C%20Built%20with%20curiosity%2C%20coffee%2C%20and%20an%20AI%20agent%20named%20Luvi&fontSize=12&fontColor=6B7280&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:000000&height=70&section=footer&text=%C2%A9%202026%20Faiz%20%7C%20Built%20with%20a%20cup%20of%20coffee&fontSize=12&fontColor=6B7280&fontAlignY=50" width="100%" />
 
 </div>
