@@ -43,6 +43,20 @@ always
 
 <br />
 
+## // deploy
+
+<div align="center">
+
+[![OpenClaw](https://img.shields.io/badge/OPENCLAW-openclaw.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://openclaw.faizarmedi.com/)
+[![Website](https://img.shields.io/badge/WEBSITE-faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://faizarmedi.com/)
+[![Airflow](https://img.shields.io/badge/AIRFLOW-airflow.faizarmedi.com-000000?style=for-the-badge&logo=apacheairflow&logoColor=FF2A2A)](https://airflow.faizarmedi.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://portfolio.faizarmedi.com/)
+[![9Router](https://img.shields.io/badge/9ROUTER-9router.faizarmedi.com-000000?style=for-the-badge&logoColor=FF2A2A)](https://9router.faizarmedi.com/)
+
+</div>
+
+<br />
+
 ## // stack
 
 **Data Engineering**
