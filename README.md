@@ -84,7 +84,7 @@ always learning, experimenting, turning ideas into working solutions
 
 ![Followers](https://img.shields.io/github/followers/armedifaiz?style=flat-square&labelColor=000000&color=00F0FF)
 ![Repos](https://img.shields.io/badge/REPOS-PUBLIC-0B1220?style=flat-square&labelColor=000000&color=00F0FF)
-![Joined](https://img.shields.io/github/created-at/armedifaiz?style=flat-square&labelColor=000000&color=00F0FF)
+![Joined](https://img.shields.io/badge/2020-0B1220?style=flat-square&labelColor=000000&color=00F0FF)
 
 <img src="https://streak-stats.demolab.com?user=armedifaiz&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" height="150" />
 
