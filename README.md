@@ -70,7 +70,7 @@ always
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FF2A2A)
 ![REST](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=FF2A2A)
 
-**AI and Automation**
+**Workers**
 
 ![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=FF2A2A)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logoColor=FF2A2A)
