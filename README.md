@@ -114,6 +114,7 @@ always
 [![GitHub](https://img.shields.io/badge/GITHUB-armedifaiz-000000?style=for-the-badge&logo=github&logoColor=FF2A2A)](https://github.com/armedifaiz)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=FF2A2A)](https://www.linkedin.com/in/faizarmedi)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=FF2A2A)](https://www.instagram.com/faiz.armedi)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=FF2A2A)](mailto:me@faizarmedi.com)
 
 </div>
 
