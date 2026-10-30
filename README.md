@@ -33,8 +33,9 @@ data modeling
 orchestration
 
 $ cat philosophy.txt
-AI is quick to create features.
-I am quick to make `fix fix fix` commits.
+1 little bugs in the code.
+Take one down, patch it around.
+99 new bugs in the code.
 
 $ uptime
 always
