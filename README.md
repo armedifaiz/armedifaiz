@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B1220&height=140&section=header&text=FAIZ%20ARMEDI&fontSize=42&fontColor=00F0FF&fontAlign=50&fontAlignY=50&desc=DATA%20ENGINEER%20%2F%20GOOGLE%20CLOUD&descSize=14&descColor=6B7280&descAlignY=72" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=Building+data+pipelines+that+do+not+break;Orchestrating+chaos;Then+shipping+fix+fix+fix" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=560&lines=Spirit+In+The+Sky;Orchestrating+chaos;FIX+FIX+FIX" alt="typing" />
 </a>
 
 <br />
