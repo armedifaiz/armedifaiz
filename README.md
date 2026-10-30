@@ -27,10 +27,10 @@ $ cat role.txt
 Data Engineer @ Devoteam (Google Cloud Partner)
 
 $ cat focus.txt
-data pipelines
-data warehousing
-data modeling
-orchestration
+agentic
+self-healing pipelines
+agents that fix the agents
+vibes-based orchestration
 
 $ cat philosophy.txt
 1 little bugs in the code.
